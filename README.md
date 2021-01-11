@@ -3,13 +3,14 @@
 
 **Tugas ini berdasarkan ketentuan soal UAS dengan struktur seperti ini:**
 
- <img width="230" alt="sss" src="https://user-images.githubusercontent.com/56913656/71645291-b2bde880-2d08-11ea-9155-c9cb1370ee9d.png">
+  <img width="230" alt="Project" src="https://user-images.githubusercontent.com/73052087/104217668-4246bd00-546e-11eb-842d-829492934827.png">
  
 * ``daftar_nilai.py`` berisi modul untuk  :
     * tambah_data
     * ubah_data
     * hapus_data
     * cari_data 
+    * lihat_data
 * ``view_nilai.py`` berisi modul untuk : 
     * cetak_daftar_nilai 
     * cetak_hasil_pencarian
