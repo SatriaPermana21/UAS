@@ -30,7 +30,8 @@
 
 * **Output Cari_data**
 
-  <img width="428" alt="opsiCari" src="https://user-images.githubusercontent.com/56913656/71645619-704ada80-2d0d-11ea-9d52-eb1c26fcf281.png">
+  ![OpsiCari](https://user-images.githubusercontent.com/73052087/104216475-af595300-546c-11eb-9178-6a9013d13725.png)
+
 
 * **Output Hapus_data**
 
